@@ -1,7 +1,3 @@
-.terraform
-terraform.tfstate
-terraform.tfvars
-*.tfstate
-*.tfstate.*
-*.terraform.lock.hcl
 *.pkrvars.hcl
+.terraform*
+*.tfstate*
