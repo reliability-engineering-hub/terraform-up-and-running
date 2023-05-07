@@ -1,5 +1,6 @@
 ## About Study
-[Terraform Up & Running](https://search.shopping.naver.com/book/catalog/32436245215?query=%ED%85%8C%EB%9D%BC%ED%8F%BC%20%EC%97%85%EC%95%A4%EB%9F%AC%EB%8B%9D&NaPm=ct%3Dlghsb9dk%7Cci%3De0f99ad61a466952976873b900fa25b7d0175589%7Ctr%3Dboksl%7Csn%3D95694%7Chk%3Dd7127285c369139754d0650621739e38a71c95c7)
+[Terraform Up & Running](https://search.shopping.naver.com/book/catalog/32436245215?query=%ED%85%8C%EB%9D%BC%ED%8F%BC%20%EC%97%85%EC%95%A4%EB%9F%AC%EB%8B%9D&NaPm=ct%3Dlghsb9dk%7Cci%3De0f99ad61a466952976873b900fa25b7d0175589%7Ctr%3Dboksl%7Csn%3D95694%7Chk%3Dd7127285c369139754d0650621739e38a71c95c7) </br>
+[예제 코드](https://github.com/brikis98/terraform-up-and-running-code/tree/2nd-edition)
 
 ---
 ## 스터디 방식
